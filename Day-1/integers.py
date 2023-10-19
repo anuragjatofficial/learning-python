@@ -30,5 +30,3 @@ c = complex(x)
 # print values
 
 print(a,b,c)
-
-
