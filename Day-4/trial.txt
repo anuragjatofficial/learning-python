@@ -1,0 +1,1 @@
+I have written some dummy text in this file to read it from python file A new line
